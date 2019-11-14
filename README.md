@@ -1,2 +1,2 @@
-# readme
-Read this to know why there is nothing more here
+# Open Energy Family 
+The Open Energy Family can be found here:  https://github.com/OpenEnergyPlatform/
